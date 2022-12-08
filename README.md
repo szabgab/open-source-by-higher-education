@@ -96,4 +96,33 @@ If you know more send a Pull-Request or open an issue with the links.
 * https://github.com/stanfordnmbl
 * https://github.com/stanford-ssi
 * https://github.com/StanfordSNR
+* https://github.com/stanford-iprl-lab
+* https://github.com/Stanford-NavLab
+* https://github.com/stanford-crfm
+* https://github.com/stanford-rc
+* https://github.com/StanfordMSL
+* https://github.com/stanford-mast
+* https://github.com/stanfordio
+* https://github.com/StanfordBioinformatics
+* https://github.com/sisl
+* https://github.com/stanfordpython
+* https://github.com/StanfordRockPhysics
+
+## [UC Berkeley](https://www.berkeley.edu/)
+
+* https://github.com/ucb-bar
+* https://github.com/ucbrise
+* https://github.com/UC-Berkeley-I-School
+* https://github.com/cdlib
+
+## [UCLA](https://www.ucla.edu/)
+
+* https://github.com/ucla
+* https://github.com/uclaml
+* https://github.com/uclaacm
+* https://github.com/UCLA-VAST
+* https://github.com/uclasystem
+* https://github.com/uclastudentmedia
+* https://github.com/UCLA-StarAI
+
 
