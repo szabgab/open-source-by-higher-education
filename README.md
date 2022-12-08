@@ -56,6 +56,40 @@ If you know more send a Pull-Request or open an issue with the links.
 * [Scalpel Lab - Technion](https://github.com/ScalpelTech)
 * [MTRL lab -Technion Institute of technology](https://github.com/MTRL-lab)
 
+## [CERN - European Organization for Nuclear Research](https://home.cern/), Geneva, Switzerland
+
+* https://github.com/CERN
+* https://github.com/cernops
+* https://github.com/cernphsft
+* https://github.com/cernopendata
+* https://github.com/cerndb
+* https://github.com/cern-fts
+* https://github.com/ubuntu-cern
+
+
+## Edinburgh Cancer Research UK Centre
+
+* https://github.com/CarragherLab
+
+## [University of Edinburgh](https://www.ed.ac.uk/), Scotland, UK
+
+* https://github.com/EdinburghNLP
+* https://github.com/uoe-agents
+* https://github.com/compsoc-edinburgh
+* https://github.com/ipab-slmc
+* https://github.com/ease-lab
+
+## [The University of Manchester](https://www.manchester.ac.uk/), UK
+
+* https://github.com/SpiNNakerManchester
+* https://github.com/FPGA-Research-Manchester
+* https://github.com/the-cai-lab
+* https://github.com/beehive-lab
+* https://github.com/unicsmcr
+* https://github.com/manchester-hyperloop
+* https://github.com/UoMMIB
+* https://github.com/fls-bioinformatics-core
+
 
 ## [MTU - Michigan Tech](https://www.mtu.edu/), MI, USA
 
@@ -108,14 +142,14 @@ If you know more send a Pull-Request or open an issue with the links.
 * https://github.com/stanfordpython
 * https://github.com/StanfordRockPhysics
 
-## [UC Berkeley](https://www.berkeley.edu/)
+## [UC Berkeley](https://www.berkeley.edu/), USA
 
 * https://github.com/ucb-bar
 * https://github.com/ucbrise
 * https://github.com/UC-Berkeley-I-School
 * https://github.com/cdlib
 
-## [UCLA](https://www.ucla.edu/)
+## [UCLA](https://www.ucla.edu/), USA
 
 * https://github.com/ucla
 * https://github.com/uclaml
