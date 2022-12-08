@@ -57,6 +57,8 @@
 * [Harvard Library Innovation Laboratory](https://github.com/harvard-lil)
 
 
+## University of Calgary
 
+* https://github.com/UCSolarCarTeam
 
 
