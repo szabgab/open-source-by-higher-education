@@ -77,5 +77,23 @@ If you know more send a Pull-Request or open an issue with the links.
 ## [Columbia University](https://columbia.edu/), New York, USA
 
 * https://github.com/ColumbiaDVMM
+* https://github.com/columbia-university-robotics
+* https://github.com/columbia-it
 
+## [Stanford University](https://stanford.edu), San Francisco, USA
+
+* https://github.com/Stanford
+* https://github.com/stanfordnlp
+* https://github.com/StanfordASL
+* https://github.com/StanfordVL
+* https://github.com/stanfordmlgroup
+* https://github.com/stanford-oval
+* https://github.com/stanfordroboticsclub
+* https://github.com/stanford-futuredata
+* https://github.com/Stanford-ILIAD
+* https://github.com/StanfordHCI
+* https://github.com/StanfordAHA
+* https://github.com/stanfordnmbl
+* https://github.com/stanford-ssi
+* https://github.com/StanfordSNR
 
