@@ -20,7 +20,7 @@
 * [Distributed Algorithms, Networking and Secure Systems Group](https://github.com/HUJI-DANSS)
 * [Machine Perception Group - Machine Vision and Learning research group](https://github.com/HUJI-Machine-Perception-Group)
 
-## Technion, Israel
+## [Technion](https://www.technion.ac.il/), Israel
 
 * [Aran Lab](https://github.com/dviraran)
 * [Computer Systems Lab](https://github.com/technion-csl)
@@ -47,3 +47,16 @@
 ## [MIT - Massachusetts Institute of Technology](https://web.mit.edu/), MA, USA
 
 * https://github.com/mit
+
+## Harvard, USA
+
+* https://github.com/harvard
+* [Harvard NLP](https://github.com/harvardnlp) Cornell?
+* https://github.com/harvardinformatics
+* https://github.com/Harvard-IACS
+* [Harvard Library Innovation Laboratory](https://github.com/harvard-lil)
+
+
+
+
+
