@@ -1,5 +1,20 @@
 # Open Soruce by Higher Education institutions
 
+## [Seneca](https://www.senecacollege.ca/), Toronto, Ontario, Canada
+
+* [Centre for the Development of Open Technology ](https://github.com/Seneca-CDOT/)
+
+## [University of Calgary](https://www.ucalgary.ca/), Alberta, Canada
+
+* https://github.com/ucalgary
+* https://github.com/UCSolarCarTeam
+* https://github.com/StudentOrganisationForAerospaceResearch
+* https://github.com/UofC-GDC
+* https://github.com/ucalgary-ilab
+* https://github.com/calgaryml
+* https://github.com/GeoSensorWebLab
+
+
 ## [Weizmann Institute of Science](https://www.weizmann.ac.il/), Rehovot, Israel
 
 * https://github.com/WeizmannVision
@@ -40,10 +55,6 @@
 
 * [Open Source at MTU](https://opensource.mtu.edu/)
 
-## [Seneca](https://www.senecacollege.ca/), Toronto, Ontario, Canada
-
-* [Centre for the Development of Open Technology ](https://github.com/Seneca-CDOT/)
-
 ## [MIT - Massachusetts Institute of Technology](https://web.mit.edu/), MA, USA
 
 * https://github.com/mit
@@ -55,17 +66,6 @@
 * https://github.com/harvardinformatics
 * https://github.com/Harvard-IACS
 * [Harvard Library Innovation Laboratory](https://github.com/harvard-lil)
-
-
-## [University of Calgary](https://www.ucalgary.ca/), Alberta, Canada
-
-* https://github.com/ucalgary
-* https://github.com/UCSolarCarTeam
-* https://github.com/StudentOrganisationForAerospaceResearch
-* https://github.com/UofC-GDC
-* https://github.com/ucalgary-ilab
-* https://github.com/calgaryml
-* https://github.com/GeoSensorWebLab
 
 
 ## [Columbia University](https://columbia.edu/), New York, USA
