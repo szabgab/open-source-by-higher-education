@@ -1,6 +1,6 @@
 # Open Soruce by Higher Education institutions
 
-## [Weizmann Institute of Science](https://www.weizmann.ac.il/), Israel
+## [Weizmann Institute of Science](https://www.weizmann.ac.il/), Rehovot, Israel
 
 * https://github.com/WeizmannVision
 * https://github.com/WeizmannML
@@ -11,7 +11,7 @@
 * https://github.com/eXplicit-prosody-lab
 * https://github.com/American-Committee-for-Weizmann
 
-## Tel Aviv University, Israel
+## [Tel Aviv University](https://www.tau.ac.il/), Israel
 
 ## [Hebrew University in Jerusalem](https://new.huji.ac.il/), Israel
 
@@ -20,10 +20,30 @@
 * [Distributed Algorithms, Networking and Secure Systems Group](https://github.com/HUJI-DANSS)
 * [Machine Perception Group - Machine Vision and Learning research group](https://github.com/HUJI-Machine-Perception-Group)
 
+## Technion, Israel
 
-## [MTU - Michigan Tech](https://www.mtu.edu/)
+* [Aran Lab](https://github.com/dviraran)
+* [Computer Systems Lab](https://github.com/technion-csl)
+* [NLP](https://github.com/technion-nlp-lab)
+* [ACSL: Technion Accelerated Computing Systems Lab](https://github.com/acsl-technion)
+* [Israel Cohen's Lab](https://github.com/IsraelCohenLab)
+* [CEAR Lab - Technion ](https://github.com/CearLab)
+* [Kaplan Lab of Genome Structure & Function](https://github.com/KaplanLab)
+* [Technion's CS AVR Lab](https://github.com/TechnionAVRLab)
+* [Ronen Talmon's Lab](https://github.com/RonenTalmonLab)
+* [SQC lab - Technion](https://github.com/SQClab)
+* [Scalpel Lab - Technion](https://github.com/ScalpelTech)
+* [MTRL lab -Technion Institute of technology](https://github.com/MTRL-lab)
+
+
+## [MTU - Michigan Tech](https://www.mtu.edu/), MI, USA
 
 * [Open Source at MTU](https://opensource.mtu.edu/)
 
-## Seneca
+## [Seneca](https://www.senecacollege.ca/), Toronto, Ontario, Canada
 
+* [Centre for the Development of Open Technology ](https://github.com/Seneca-CDOT/)
+
+## [MIT - Massachusetts Institute of Technology](https://web.mit.edu/), MA, USA
+
+* https://github.com/mit
