@@ -57,8 +57,15 @@
 * [Harvard Library Innovation Laboratory](https://github.com/harvard-lil)
 
 
-## University of Calgary
+## [University of Calgary](https://www.ucalgary.ca/), Alberta, Canada
 
+* https://github.com/ucalgary
 * https://github.com/UCSolarCarTeam
+* https://github.com/StudentOrganisationForAerospaceResearch
+* https://github.com/UofC-GDC
+* https://github.com/ucalgary-ilab
+* https://github.com/calgaryml
+* https://github.com/GeoSensorWebLab
+
 
 
