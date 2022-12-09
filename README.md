@@ -161,4 +161,10 @@ I maintain another such list of [Open Source by Corporation](https://github.com/
 * https://github.com/uclastudentmedia
 * https://github.com/UCLA-StarAI
 
+## [University of Virginia](https://www.virginia.edu/),  Charlottesville, VA, USA
+
+* https://github.com/uva-math
+* https://github.com/UVA-High-Speed-Networks
+* https://github.com/uvarc
+* https://github.com/UVADS
 
