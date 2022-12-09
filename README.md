@@ -5,6 +5,8 @@ Here you can find links to the GitHub organizations of the institutions or that 
 
 If you know more send a Pull-Request or open an issue with the links.
 
+I maintain another such list of [Open Source by Corporation](https://github.com/szabgab/open-source-by-corporations).
+
 
 ## [Seneca](https://www.senecacollege.ca/), Toronto, Ontario, Canada
 
