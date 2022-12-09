@@ -109,9 +109,12 @@ I maintain another such list of [Open Source by Corporation](https://github.com/
 * https://github.com/fls-bioinformatics-core
 
 
-## [MTU - Michigan Tech](https://www.mtu.edu/), MI, USA
+## [MTU - Michigan Tech](https://www.mtu.edu/), Houghton, MI, USA
 
 * [Open Source at MTU](https://opensource.mtu.edu/)
+* https://github.com/MichiganTech
+* https://github.com/WMTU
+* https://github.com/MTU-IMES-LAB
 
 ## [MIT - Massachusetts Institute of Technology](https://web.mit.edu/), Cambridge, MA, USA
 
@@ -123,7 +126,6 @@ I maintain another such list of [Open Source by Corporation](https://github.com/
 * https://github.com/mit-dci
 * https://github.com/mit-acl
 * https://github.com/MIT-LCP
-* 
 
 ## Harvard, USA
 
