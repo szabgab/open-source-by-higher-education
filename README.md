@@ -113,9 +113,17 @@ I maintain another such list of [Open Source by Corporation](https://github.com/
 
 * [Open Source at MTU](https://opensource.mtu.edu/)
 
-## [MIT - Massachusetts Institute of Technology](https://web.mit.edu/), MA, USA
+## [MIT - Massachusetts Institute of Technology](https://web.mit.edu/), Cambridge, MA, USA
 
 * https://github.com/mit
+* https://github.com/mit-pdos
+* https://github.com/mit-han-lab
+* https://github.com/mitmedialab
+* https://github.com/MIT-SPARK
+* https://github.com/mit-dci
+* https://github.com/mit-acl
+* https://github.com/MIT-LCP
+* 
 
 ## Harvard, USA
 
@@ -183,7 +191,6 @@ I maintain another such list of [Open Source by Corporation](https://github.com/
 * https://github.com/UVA-High-Speed-Networks
 * https://github.com/uvarc
 * https://github.com/UVADS
-
 ## [Indiana University](https://www.iu.edu/), USA
 
 * https://github.com/indiana-university
@@ -220,4 +227,32 @@ I maintain another such list of [Open Source by Corporation](https://github.com/
 * https://github.com/RITIVCF
 * https://github.com/RITJBF
 
+## [CSU - Colorado State University](https://www.colostate.edu/), USA
+
+* https://github.com/csu-library
+* https://github.com/patonlab
+* https://github.com/CSU-CompSci-CS163-4
+* https://github.com/stenglein-lab
+* https://github.com/NuiLab
+* https://github.com/chan-csu
+* https://github.com/csu-ricro
+
+## [WSCU - Western State Colorado University](https://western.edu/), USA
+
+* https://github.com/WSCU
+
+## [Normandale Community College](https://www.normandale.edu/)
+
+* https://github.com/NCCProgramming
+
+## [Rice University](https://www.rice.edu/)
+
+* https://github.com/kemerelab
+* https://github.com/datamllab
+* https://github.com/rice-eclipse
+
+## [Swarthmore College](https://www.swarthmore.edu/), USA
+
+* https://github.com/Swarthmore
+* https://github.com/swat-sccs
 
