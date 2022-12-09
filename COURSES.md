@@ -16,3 +16,9 @@
 * [OSD700 - Open Source Development Project](https://www.senecacollege.ca/cgi-bin/subject?s1=OSD700)
 
 There are several others one can find on the page
+
+## Columbia, NY, USA
+
+* [COMS 4995 Open Source Development](https://www.cs.columbia.edu/~paine/4995/)
+
+
