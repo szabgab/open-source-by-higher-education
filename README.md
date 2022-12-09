@@ -22,6 +22,18 @@ I maintain another such list of [Open Source by Corporation](https://github.com/
 * https://github.com/calgaryml
 * https://github.com/GeoSensorWebLab
 
+## [ELTE Eötvös Loránd University](https://www.elte.hu/), Budapest, Hungary
+
+* https://github.com/eltecnl
+
+## [BME - Budapest University of Technology and Economics](https://www.bme.hu/), Budapest, Hungary
+
+* https://github.com/bmeaut
+* https://github.com/BME-FRT
+* https://github.com/bme-kjit
+* https://github.com/bi-labor
+* https://github.com/bmetrafficlab
+
 
 ## [Weizmann Institute of Science](https://www.weizmann.ac.il/), Rehovot, Israel
 
@@ -167,4 +179,31 @@ I maintain another such list of [Open Source by Corporation](https://github.com/
 * https://github.com/UVA-High-Speed-Networks
 * https://github.com/uvarc
 * https://github.com/UVADS
+
+## [Indiana University](https://www.iu.edu/), USA
+
+* https://github.com/indiana-university
+* https://github.com/LennonLab
+
+## [Tufs University](https://www.tufts.edu/), USA
+
+* https://github.com/tuftsdev
+* https://github.com/tuftsdatalab
+* https://github.com/tuftsenigma
+* https://github.com/Tufts-Robotics-Club
+
+## [University of Louisiana](https://louisiana.edu/), USA
+
+* https://github.com/ULGameLab
+
+##  [Xavier University of Louisiana](https://www.xula.edu/)
+
+* https://github.com/xavieruniv
+
+* [LSU - Louisiana State University](https://lsu.edu/)
+
+* https://github.com/digital-culture-seminar
+
+
+
 
