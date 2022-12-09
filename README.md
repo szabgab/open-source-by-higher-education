@@ -34,6 +34,10 @@ I maintain another such list of [Open Source by Corporation](https://github.com/
 * https://github.com/bi-labor
 * https://github.com/bmetrafficlab
 
+## [Ramco Institute of Technology](https://www.ritrjpm.ac.in/), India
+
+* https://github.com/Ramco-Insitute-of-Technology
+
 
 ## [Weizmann Institute of Science](https://www.weizmann.ac.il/), Rehovot, Israel
 
@@ -196,14 +200,24 @@ I maintain another such list of [Open Source by Corporation](https://github.com/
 
 * https://github.com/ULGameLab
 
-##  [Xavier University of Louisiana](https://www.xula.edu/)
+##  [Xavier University of Louisiana](https://www.xula.edu/), USA
 
 * https://github.com/xavieruniv
 
-* [LSU - Louisiana State University](https://lsu.edu/)
+## [LSU - Louisiana State University](https://lsu.edu/), USA
 
 * https://github.com/digital-culture-seminar
 
+## [RIT - Rochester Institute of Technology](https://www.rit.edu/), NY, USA
 
+* https://github.com/RITlug
+* https://github.com/RIT-EVT
+* https://github.com/ritsec
+* https://github.com/FOSSRIT
+* https://github.com/RITHonorsTechCommittee
+* https://github.com/rit-csc
+* https://github.com/RITcraft
+* https://github.com/RITIVCF
+* https://github.com/RITJBF
 
 
