@@ -22,3 +22,21 @@ There are several others one can find on the page
 * [COMS 4995 Open Source Development](https://www.cs.columbia.edu/~paine/4995/)
 
 
+## University of Calgary
+
+* [ENSF 619.2 - Special Topics (SoftwareDevelpmnt OpenSource)](https://contacts.ucalgary.ca/info/enel/courses/f22/ENSF619.2)
+
+
+## FAU - Friedrich-Alexander-Universität
+
+* [Free (/Libre), and Open Source Software (FOSS)](https://profriehle.com/open-courses/free-and-open-source-software/) by Prof. [Dirk Riehle](https://dirkriehle.com/)
+* [Prof. Dr. Dirk Riehle](https://oss.cs.fau.de/person/riehle-dirk/)
+
+
+## Northern Arizona University
+
+* [Igor Steinmacher](https://experts.nau.edu/en/persons/igor-steinmacher) [CS499-OSS](https://github.com/igorsteinmacher/CS499-OSS)
+
+
+* [Gustavo Pinto](https://gustavopinto.org/)  [Tópicos Especiais em Software Livre (TESL)](https://github.com/gustavopinto/tesl)
+
