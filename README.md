@@ -258,3 +258,12 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 * https://github.com/Swarthmore
 * https://github.com/swat-sccs
 
+## [Rutgers University](https://www.rutgers.edu/)  Piscataway NJ, USA
+
+* https://github.com/rutgers
+* https://github.com/rutgerswiselab
+* https://github.com/RutgersCodingBootcamp
+* https://github.com/RutgersRoboticsResearch
+* https://github.com/rutgers-apl
+* https://github.com/Rutgers-CG
+
