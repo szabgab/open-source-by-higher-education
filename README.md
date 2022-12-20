@@ -34,6 +34,15 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 * https://github.com/bi-labor
 * https://github.com/bmetrafficlab
 
+## [Sztaki - Institute for Computer Science and Control](https://www.sztaki.hu/), Budapest, Hungary
+
+* https://github.com/sztaki-hu
+* https://github.com/MTA-SZTAKI
+* https://github.com/MTASZTAKI
+* https://github.com/sztaki-geocomp
+* https://github.com/dsd-sztaki-hu
+
+
 ## [Ramco Institute of Technology](https://www.ritrjpm.ac.in/), India
 
 * https://github.com/Ramco-Insitute-of-Technology
