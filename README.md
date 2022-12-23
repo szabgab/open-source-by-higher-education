@@ -25,6 +25,8 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 ## [ELTE Eötvös Loránd University](https://www.elte.hu/), Budapest, Hungary
 
 * https://github.com/eltecnl
+* https://github.com/eltevo
+* https://github.com/elte-fi
 
 ## [BME - Budapest University of Technology and Economics](https://www.bme.hu/), Budapest, Hungary
 
