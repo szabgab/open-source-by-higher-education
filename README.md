@@ -278,3 +278,6 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 * https://github.com/rutgers-apl
 * https://github.com/Rutgers-CG
 
+## [Emerson College](https://emerson.edu/) Boston, MA, USA
+
+* https://github.com/emersonit
