@@ -7,6 +7,9 @@ If you know more send a Pull-Request or open an issue with the links.
 
 There are separate lists for [Open Source by Corporation](https://github.com/szabgab/open-source-by-corporations) and [Open Source by government](https://github.com/szabgab/open-source-by-government).
 
+## [The University of Melbourne](https://www.unimelb.edu.au/), Australia
+
+* https://github.com/unimelb
 
 ## [Seneca](https://www.senecacollege.ca/), Toronto, Ontario, Canada
 
