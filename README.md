@@ -15,6 +15,10 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 
 * [Centre for the Development of Open Technology ](https://github.com/Seneca-CDOT/)
 
+## [Polytechnique Montreal](https://www.polymtl.ca/), Canada
+
+* [Applied Geophysics Research](https://github.com/GeoCode-polymtl)
+
 ## [University of Calgary](https://www.ucalgary.ca/), Alberta, Canada
 
 * https://github.com/ucalgary
