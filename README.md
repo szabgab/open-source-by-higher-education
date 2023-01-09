@@ -299,3 +299,9 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 * https://github.com/UT-Austin-Senior-Design-D7
 * https://github.com/UT-Austin-Bootcamp-Proj1-Group-D
 * https://github.com/UT-Austin-RobIn
+
+## [Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen](https://gwdg.de) Germany
+
+* https://github.com/gwdg
+* https://github.com/gwdgls
+
