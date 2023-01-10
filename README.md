@@ -305,3 +305,11 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 * https://github.com/gwdg
 * https://github.com/gwdgls
 
+## [Gene Ontology Consortium] (http://geneontology.org/)
+
+* https://github.com/geneontology/geneontology.github.io
+* https://github.com/geneontology/go-ontology
+* https://github.com/geneontology/go-annotation
+* https://github.com/geneontology/go-site
+* https://github.com/geneontology/noctua
+* https://github.com/geneontology/helpdesk
