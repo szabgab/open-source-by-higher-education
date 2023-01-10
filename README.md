@@ -76,6 +76,7 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 * [The Spoken Language Processing Research Lab (SLP-RL)](https://github.com/slp-rl)
 * [Distributed Algorithms, Networking and Secure Systems Group](https://github.com/HUJI-DANSS)
 * [Machine Perception Group - Machine Vision and Learning research group](https://github.com/HUJI-Machine-Perception-Group)
+* [Introduction to Machine Learning](https://github.com/GreenGilad/IML.HUJI)
 
 ## [Technion](https://www.technion.ac.il/), Israel
 
