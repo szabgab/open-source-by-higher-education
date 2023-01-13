@@ -291,6 +291,9 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 * https://github.com/eniac
 * https://github.com/alelab-upenn
 * https://github.com/grasp-lyrl
+* https://github.com/Xinglab
+* https://github.com/icgrp
+* https://github.com/UPENNANALYTICS
 
 
 ## [Rutgers University](https://www.rutgers.edu/)  Piscataway, NJ, USA
