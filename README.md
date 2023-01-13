@@ -154,6 +154,9 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 * https://github.com/Harvard-IACS
 * [Harvard Library Innovation Laboratory](https://github.com/harvard-lil)
 
+## [The Broad Institute - Harvard and MIT](https://www.broadinstitute.org/), USA
+
+* https://github.com/broadinstitute
 
 ## [Columbia University](https://columbia.edu/), New York, USA
 
