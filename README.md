@@ -70,6 +70,8 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 
 ## [Tel Aviv University](https://www.tau.ac.il/), Israel
 
+* https://github.com/Py4Life
+
 ## [Hebrew University in Jerusalem](https://new.huji.ac.il/), Israel
 
 * [NLP - Natural Language Processing lab](https://github.com/huji-nlp)
@@ -280,6 +282,17 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 * https://github.com/Swarthmore
 * https://github.com/swat-sccs
 
+##  [University of Pennsylvania](https://www.upenn.edu/), Philadelphia, Pennsylvania, USA
+
+* https://github.com/upenn
+* https://github.com/mlab-upenn
+* https://github.com/daniilidis-group
+* https://github.com/upenn-cis5520
+* https://github.com/eniac
+* https://github.com/alelab-upenn
+* https://github.com/grasp-lyrl
+
+
 ## [Rutgers University](https://www.rutgers.edu/)  Piscataway, NJ, USA
 
 * https://github.com/rutgers
@@ -308,4 +321,9 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 
 * https://github.com/gwdg
 * https://github.com/gwdgls
+
+## [Freie Universität](https://www.fu-berlin.de/) Berlin, Germany
+
+* [Keller lab](https://github.com/bkellerlab)  https://www.bcp.fu-berlin.de/
+* [Institut für Informatik](https://github.com/fubinf)  https://www.mi.fu-berlin.de/
 
