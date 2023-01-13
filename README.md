@@ -306,3 +306,8 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 * https://github.com/gwdg
 * https://github.com/gwdgls
 
+## [The Broad Institute](https://www.broadinstitute.org/), USA
+
+* https://github.com/broadinstitute/gatk
+* https://github.com/broadinstitute/picard
+* https://github.com/broadinstitute/cromwell
