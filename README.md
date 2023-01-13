@@ -157,9 +157,6 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 ## [The Broad Institute - Harvard and MIT](https://www.broadinstitute.org/), USA
 
 * https://github.com/broadinstitute
-* https://github.com/broadinstitute/gatk
-* https://github.com/broadinstitute/picard
-* https://github.com/broadinstitute/cromwell
 
 ## [Columbia University](https://columbia.edu/), New York, USA
 
