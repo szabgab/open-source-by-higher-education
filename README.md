@@ -262,22 +262,22 @@ There are separate lists for [Open Source by Corporation](https://github.com/sza
 
 * https://github.com/WSCU
 
-## [Normandale Community College](https://www.normandale.edu/)
+## [Normandale Community College](https://www.normandale.edu/)  Bloomington, MN, USA
 
 * https://github.com/NCCProgramming
 
-## [Rice University](https://www.rice.edu/)
+## [Rice University](https://www.rice.edu/) Houston, Texas, USA
 
 * https://github.com/kemerelab
 * https://github.com/datamllab
 * https://github.com/rice-eclipse
 
-## [Swarthmore College](https://www.swarthmore.edu/), USA
+## [Swarthmore College](https://www.swarthmore.edu/), Swarthmore, Pennsylvania, USA
 
 * https://github.com/Swarthmore
 * https://github.com/swat-sccs
 
-## [Rutgers University](https://www.rutgers.edu/)  Piscataway NJ, USA
+## [Rutgers University](https://www.rutgers.edu/)  Piscataway, NJ, USA
 
 * https://github.com/rutgers
 * https://github.com/rutgerswiselab
