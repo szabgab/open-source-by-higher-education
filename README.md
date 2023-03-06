@@ -7,27 +7,9 @@ If you know more send a Pull-Request or open an issue with the links.
 
 There are separate lists for [Open Source by Corporation](https://github.com/szabgab/open-source-by-corporations) and [Open Source by government](https://github.com/szabgab/open-source-by-government).
 
-## [The University of Melbourne](https://www.unimelb.edu.au/), Australia
-
-* https://github.com/unimelb
-
-## [Seneca](https://www.senecacollege.ca/), Toronto, Ontario, Canada
-
-* [Centre for the Development of Open Technology ](https://github.com/Seneca-CDOT/)
-
 ## [Polytechnique Montreal](https://www.polymtl.ca/), Canada
 
 * [Applied Geophysics Research](https://github.com/GeoCode-polymtl)
-
-## [University of Calgary](https://www.ucalgary.ca/), Alberta, Canada
-
-* https://github.com/ucalgary
-* https://github.com/UCSolarCarTeam
-* https://github.com/StudentOrganisationForAerospaceResearch
-* https://github.com/UofC-GDC
-* https://github.com/ucalgary-ilab
-* https://github.com/calgaryml
-* https://github.com/GeoSensorWebLab
 
 ## [ELTE Eötvös Loránd University](https://www.elte.hu/), Budapest, Hungary
 
